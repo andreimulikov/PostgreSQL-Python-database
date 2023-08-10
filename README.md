@@ -13,3 +13,5 @@ Creating a table with Manchester United players in a PostgreSQL database using P
 4. After a successful connection, a table is created in which data about the players of the Manchester United football club is entered.
 
 5. Final result. This is what a table looks like in a PostgreSQL database.
+
+   ![Screenshot a table](https://github.com/andreimulikov/PostgreSQL-Python-database/blob/main/United_players%20(table).JPG)
